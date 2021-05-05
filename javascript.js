@@ -10,4 +10,4 @@ document.write('<img src="https://memegenerator.net/img/instances/68218655.jpg"w
   document.write('<img src="https://wallpaperaccess.com/full/3115767.jpg" width: 200px>')
 }
 
-console.log('I made this with javascript');
+console.log('I made this with javascript')
