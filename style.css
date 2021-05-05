@@ -1,0 +1,34 @@
+
+header{
+  color: #66cc99;
+  background-color: black;
+  text-align: center;
+ height:100px;
+}
+body{
+  background-color: #66cc99;
+  color-adjust: black;
+  font: 1em Cursive	;
+
+ }
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.head {
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+#first {
+  text-align: center;
+
+}
+#second  {
+  text-align: center;
+}
+#third  {
+  text-align: center;
+}
